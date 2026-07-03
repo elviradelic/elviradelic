@@ -3,11 +3,11 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-Cloud Computing • DevOps • Secure Software Development
+  Cloud Computing • DevOps • Secure Software Development
 </p>
 
 <p align="center">
-Building reliable software, automating infrastructure, and designing secure systems.
+  Building software with reliability, automation, and security in mind.
 </p>
 
 <p align="center">
@@ -26,43 +26,28 @@ Information Technology graduate with a strong foundation in software engineering
 
 I am interested in the complete software lifecycle: designing, developing, testing, deploying, automating, monitoring, and securing modern applications.
 
-My goal is to grow into an engineer who can contribute to scalable, reliable, and secure cloud-based systems.
+My long-term goal is to grow into an engineer who contributes to scalable, reliable, and secure cloud-based systems.
 
 ---
 
-## Technical Focus
-
-| Area | Technologies |
-|------|--------------|
-| **Programming** | Java · Python · PHP · JavaScript · SQL |
-| **Backend** | Object-Oriented Programming · REST APIs · Maven · Design Patterns |
-| **Cloud** | AWS · IAM · EC2 · VPC · RDS · CloudWatch |
-| **DevOps** | Git · GitHub · Docker · Linux Fundamentals |
-| **Security** | Secure Software Development · Cloud Security Fundamentals · IAM |
-| **Databases** | MySQL · PostgreSQL |
-| **Testing** | JUnit · Selenium |
-| **AI / Computer Vision** | OpenCV · YOLO · EasyOCR |
-| **Tools** | IntelliJ IDEA · VS Code · Postman |
-
----
-
-## Current Learning Path
+## Current Focus
 
 - AWS Cloud Architecture
-- Docker & Containerization
+- DevOps Practices
 - Linux
+- Docker & Containerization
 - CI/CD Pipelines
-- Kubernetes
 - Infrastructure as Code
 - Cloud Security
 - Secure Software Development
 
 ---
 
+
 ## Engineering Principles
 
 - Build maintainable and reliable software.
-- Automate repetitive work.
+- Automate repetitive work whenever possible.
 - Design with security in mind.
 - Keep systems simple before making them complex.
 - Learn continuously through practical projects.
@@ -73,7 +58,7 @@ My goal is to grow into an engineer who can contribute to scalable, reliable, an
 
 I am seeking junior, internship, or graduate opportunities where I can continue developing as a Software Engineer while specializing in Cloud Infrastructure, DevOps, and Secure Systems.
 
-My long-term direction is to work on cloud-based systems that are scalable, automated, monitored, and secure.
+I am especially interested in roles that combine software development with cloud technologies, automation, infrastructure, and security.
 
 ---
 
