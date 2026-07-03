@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="OVDJE_STAVI_LINKEDIN">
+  <a href="https://www.linkedin.com/in/elvira-deli%C4%87-63a483174/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Bosnia%20%26%20Herzegovina-555555?style=flat" />
@@ -61,8 +61,3 @@ I am seeking junior, internship, or graduate opportunities where I can continue 
 I am especially interested in roles that combine software development with cloud technologies, automation, infrastructure, and security.
 
 ---
-
-## Connect
-
-- LinkedIn: 
-- Email: 
