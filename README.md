@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  Cloud Computing • DevOps • Secure Software Development
+  Cloud Infrastructure • DevOps • Security
 </p>
 
 <p align="center">
