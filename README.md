@@ -22,13 +22,13 @@
 
 ## About
 
-B.Sc. in Information Technologies with hands-on experience across software development, cloud technologies, and applied AI.
+I'm a Software Engineer and recent Information Technologies graduate with an interest in building complete, practical systems.
 
-Through academic projects, independent development, and a Machine Learning internship, I have worked with backend and full-stack development, REST APIs, relational databases, AWS infrastructure, containerized environments, and computer vision systems.
+My work and projects have taken me across software development, cloud infrastructure, and applied AI, giving me the opportunity to understand different parts of the engineering lifecycle rather than focusing on a single technology.
 
-My main interests are Software Engineering and Cloud/DevOps, while I am also interested in applying AI and Machine Learning to real-world problems.
+My primary interests are Software Engineering and Cloud/DevOps, while Machine Learning and Computer Vision remain areas I genuinely enjoy exploring and applying to real-world problems.
 
-I enjoy understanding how systems work end-to-end — from application development and data to deployment, infrastructure, and intelligent features.
+I'm currently focused on strengthening my engineering skills through hands-on projects and preparing for my first full-time role in the industry.
 
 ---
 
@@ -59,8 +59,6 @@ I enjoy understanding how systems work end-to-end — from application developme
 
 ## Career Direction
 
-I recently completed my B.Sc. in Information Technologies and am currently looking for my first full-time engineering opportunity.
+I'm currently looking for my first full-time engineering opportunity where I can contribute to real-world projects, learn from experienced engineers, and continue developing my technical skills.
 
-I am primarily interested in Software Engineering and Cloud/DevOps roles, while remaining open to AI/ML opportunities that align with my experience and technical background.
-
-My goal is to grow into an engineer who can understand and contribute to systems across development, infrastructure, deployment, and intelligent applications.
+I'm open to junior opportunities in Software Engineering, Cloud/DevOps, and Applied AI.
