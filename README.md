@@ -3,11 +3,11 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  Cloud Infrastructure • DevOps • Security
+  Software Engineering • Cloud & DevOps • Applied AI
 </p>
 
 <p align="center">
-  Building software with reliability, automation, and security in mind.
+  Building practical software systems from application development to cloud deployment and intelligent solutions.
 </p>
 
 <p align="center">
@@ -22,42 +22,45 @@
 
 ## About
 
-Information Technology graduate with a strong foundation in software engineering and backend development, currently focused on Cloud Computing, DevOps, and Secure Software Development.
+B.Sc. in Information Technologies with hands-on experience across software development, cloud technologies, and applied AI.
 
-I am interested in the complete software lifecycle: designing, developing, testing, deploying, automating, monitoring, and securing modern applications.
+Through academic projects, independent development, and a Machine Learning internship, I have worked with backend and full-stack development, REST APIs, relational databases, AWS infrastructure, containerized environments, and computer vision systems.
 
-My long-term goal is to grow into an engineer who contributes to scalable, reliable, and secure cloud-based systems.
+My main interests are Software Engineering and Cloud/DevOps, while I am also interested in applying AI and Machine Learning to real-world problems.
+
+I enjoy understanding how systems work end-to-end — from application development and data to deployment, infrastructure, and intelligent features.
 
 ---
 
 ## Current Focus
 
-- AWS Cloud Architecture
+- Software Engineering & Backend Development
+- Cloud Architecture & AWS
 - DevOps Practices
-- Linux
 - Docker & Containerization
-- CI/CD Pipelines
-- Infrastructure as Code
-- Cloud Security
-- Secure Software Development
+- Linux & Git
+- CI/CD
+- REST APIs & Relational Databases
+- Applied AI & Machine Learning
+- Computer Vision
 
 ---
 
-
 ## Engineering Principles
 
-- Build maintainable and reliable software.
+- Build clean, maintainable, and reliable software.
+- Understand systems beyond individual technologies.
 - Automate repetitive work whenever possible.
-- Design with security in mind.
-- Keep systems simple before making them complex.
+- Design with scalability and security in mind.
+- Choose technologies based on the problem, not the trend.
 - Learn continuously through practical projects.
 
 ---
 
 ## Career Direction
 
-I am seeking junior, internship, or graduate opportunities where I can continue developing as a Software Engineer while specializing in Cloud Infrastructure, DevOps, and Secure Systems.
+I recently completed my B.Sc. in Information Technologies and am currently looking for my first full-time engineering opportunity.
 
-I am especially interested in roles that combine software development with cloud technologies, automation, infrastructure, and security.
+I am primarily interested in Software Engineering and Cloud/DevOps roles, while remaining open to AI/ML opportunities that align with my experience and technical background.
 
----
+My goal is to grow into an engineer who can understand and contribute to systems across development, infrastructure, deployment, and intelligent applications.
