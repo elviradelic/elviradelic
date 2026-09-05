@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  Building practical software systems from application development to cloud deployment and intelligent solutions.
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/elvira-deli%C4%87-63a483174/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -27,8 +23,6 @@ I'm a Software Engineer and recent Information Technologies graduate with an int
 My work and projects have taken me across software development, cloud infrastructure, and applied AI, giving me the opportunity to understand different parts of the engineering lifecycle rather than focusing on a single technology.
 
 My primary interests are Software Engineering and Cloud/DevOps, while Machine Learning and Computer Vision remain areas I genuinely enjoy exploring and applying to real-world problems.
-
-I'm currently focused on strengthening my engineering skills through hands-on projects and preparing for my first full-time role in the industry.
 
 ---
 
