@@ -28,16 +28,15 @@ My primary interests are Software Engineering and Cloud/DevOps, while Machine Le
 
 ## Current Focus
 
-- Software Engineering & Backend Development
-- Cloud Architecture & AWS
-- DevOps Practices
+- AWS Cloud Architecture
+- DevOps Engineering Practices
 - Docker & Containerization
-- Linux & Git
-- CI/CD
-- REST APIs & Relational Databases
-- Applied AI & Machine Learning
-- Computer Vision
-
+- Kubernetes & Container Orchestration
+- Terraform & Infrastructure as Code
+- CI/CD Pipelines
+- Linux & Cloud Networking
+- Infrastructure Automation
+- Cloud Security & Observability
 ---
 
 ## Engineering Principles
